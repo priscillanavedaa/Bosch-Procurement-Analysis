@@ -1,11 +1,12 @@
 # 📊 Bosch Strategic Procurement Dashboard
 
 ## 🎯 Objetivo del Proyecto
-Este dashboard fue diseñado para la **Lic. Daniela** y el equipo de Compras de Bosch. El objetivo es monitorear en tiempo real las variaciones de precio (PPV) para identificar ahorros y riesgos financieros en la cadena de suministro.
+Este dashboard fue diseñado con el objetivo es monitorear en tiempo real las variaciones de precio (PPV) para identificar ahorros y riesgos financieros en la cadena de suministro.
 
 ## 📈 Dashboard Interactivo
 
 > **🔗 [Se adjunta imagen PNG]**
+> **🔗 [Se adjunta archivo de tableau]**
 
 ---
 
