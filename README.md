@@ -5,7 +5,7 @@ Este dashboard fue diseñado para la **Lic. Daniela** y el equipo de Compras de 
 
 ## 📈 Dashboard Interactivo
 
-> **🔗 [Se adjunta archivo de Tableau]**
+> **🔗 [Se adjunta imagen PNG]**
 
 ---
 
